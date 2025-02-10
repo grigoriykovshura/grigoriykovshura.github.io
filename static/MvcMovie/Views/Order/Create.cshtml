@@ -1,0 +1,57 @@
+@{
+    ViewData["Title"] = "Страница заказа";
+}
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link rel="icon" href="https://static.thenounproject.com/png/1745534-200.png">
+    <link rel="stylesheet" href="~/css/styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SUSHIII2</title>
+</head>
+<body>
+
+<header class="hero1">
+    <h1>SUSHIII</h1>
+</header>
+
+<section class=".p">
+    <p class="polevv">
+        <label for="text">Выберите заказ:</label>
+        <select id="text" name="text">
+            <option value="california">Калифорния ролл</option>
+            <option value="philadelphia">Филадельфия ролл</option>
+            <option value="zapechwith">Запечённые роллы с креветками</option>
+            <option value="chicken">Запечённые роллы с курицей</option>
+        </select>
+    </p>
+
+    <p  class="polevv">
+        <label for="name">Введите имя:</label>
+        <input type="text" id="name" name="name" required minlength="4" maxlength="30" size="10" />
+    </p>
+
+    <p class="polevv">
+        <label for="name">Введите номер телефона:</label>
+        <input type="phone" id="phone" name="phone" required minlength="4" maxlength="30" size="20" />
+    </p>
+</section>
+
+
+<button class="button" id="myLink" onclick="myLink.onclick = function(){}">
+    <h1>ЗАКАЗАТЬ</h1>
+</button>
+
+<script src="~/js/script.js"></script>
+
+<button class="button1", id="myButton2", onclick="window.location='/Home/Index'">
+    <h1>Вернуться на главную страницу</h1>
+    <script src="~/js/script.js"></script>
+</button>
+
+</body>
+</html>
