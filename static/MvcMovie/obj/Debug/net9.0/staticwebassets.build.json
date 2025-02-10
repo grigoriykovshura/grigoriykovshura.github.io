@@ -1,0 +1,1382 @@
+{
+  "Version": 1,
+  "Hash": "REZ5XgrVpOr0KVOhs/eh88jv88i8I7lC2WZKOtMhTOk=",
+  "Source": "MvcMovie",
+  "BasePath": "_content/MvcMovie",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MvcMovie\\wwwroot",
+      "Source": "MvcMovie",
+      "ContentRoot": "s:\\sushiiiapp\\MvcMovie\\wwwroot\\",
+      "BasePath": "_content/MvcMovie",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\104lxk51ya-ci02j2ak8c.gz",
+      "SourceId": "MvcMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": "js/script#[.{fingerprint=ci02j2ak8c}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "s:\\sushiiiapp\\MvcMovie\\wwwroot\\js\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "95neb1moba",
+      "Integrity": "rVvjkRInUhFpBF/f4S5BcoUa8GoYDIMl/4C4GaYZgkw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "s:\\sushiiiapp\\MvcMovie\\wwwroot\\js\\script.js"
+    },
+    {
+      "Identity": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\3w0sbgp9k0-fwjn205m9p.gz",
+      "SourceId": "MvcMovie",
+      "SourceType": "Computed",
+      "ContentRoot": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": "MvcMovie#[.{fingerprint=fwjn205m9p}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MvcMovie.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "68u8eqi82k",
+      "Integrity": "BuGUXkdPxdpXFACcUmGxexAv6CWGmtbXvof+gn99aAU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MvcMovie.styles.css"
+    },
+    {
+      "Identity": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\lqewxh1gkt-fwjn205m9p.gz",
+      "SourceId": "MvcMovie",
+      "SourceType": "Computed",
+      "ContentRoot": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": "MvcMovie#[.{fingerprint=fwjn205m9p}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MvcMovie.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "68u8eqi82k",
+      "Integrity": "BuGUXkdPxdpXFACcUmGxexAv6CWGmtbXvof+gn99aAU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MvcMovie.bundle.scp.css"
+    },
+    {
+      "Identity": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\tsb1ls5god-zcqdgksz4t.gz",
+      "SourceId": "MvcMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": "css/styles#[.{fingerprint=zcqdgksz4t}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "s:\\sushiiiapp\\MvcMovie\\wwwroot\\css\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "w7l3n26p7k",
+      "Integrity": "LO1aaPROB5I/He2CltEhTe9Jcef/TwT+ASd6ZzyTvaQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "s:\\sushiiiapp\\MvcMovie\\wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MvcMovie.styles.css",
+      "SourceId": "MvcMovie",
+      "SourceType": "Computed",
+      "ContentRoot": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": "MvcMovie#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "fwjn205m9p",
+      "Integrity": "f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MvcMovie.styles.css"
+    },
+    {
+      "Identity": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MvcMovie.bundle.scp.css",
+      "SourceId": "MvcMovie",
+      "SourceType": "Computed",
+      "ContentRoot": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": "MvcMovie#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "fwjn205m9p",
+      "Integrity": "f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MvcMovie.bundle.scp.css"
+    },
+    {
+      "Identity": "s:\\sushiiiapp\\MvcMovie\\wwwroot\\css\\styles.css",
+      "SourceId": "MvcMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "s:\\sushiiiapp\\MvcMovie\\wwwroot\\",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zcqdgksz4t",
+      "Integrity": "syYZqWb88oVuG2LDSh4RatbpStyIo66z+PtoSHDb6P4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "s:\\sushiiiapp\\MvcMovie\\wwwroot\\js\\script.js",
+      "SourceId": "MvcMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "s:\\sushiiiapp\\MvcMovie\\wwwroot\\",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": "js/script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ci02j2ak8c",
+      "Integrity": "7LVWPIIRDILEDd0zF431LXeHpMq3xVMQJcQE8txXI9s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\tsb1ls5god-zcqdgksz4t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001317523057"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "758"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LO1aaPROB5I/He2CltEhTe9Jcef/TwT+ASd6ZzyTvaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 12:34:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"syYZqWb88oVuG2LDSh4RatbpStyIo66z+PtoSHDb6P4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-syYZqWb88oVuG2LDSh4RatbpStyIo66z+PtoSHDb6P4="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"syYZqWb88oVuG2LDSh4RatbpStyIo66z+PtoSHDb6P4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 12:34:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-syYZqWb88oVuG2LDSh4RatbpStyIo66z+PtoSHDb6P4="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\tsb1ls5god-zcqdgksz4t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LO1aaPROB5I/He2CltEhTe9Jcef/TwT+ASd6ZzyTvaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 12:34:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LO1aaPROB5I/He2CltEhTe9Jcef/TwT+ASd6ZzyTvaQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.zcqdgksz4t.css",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\tsb1ls5god-zcqdgksz4t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001317523057"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "758"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LO1aaPROB5I/He2CltEhTe9Jcef/TwT+ASd6ZzyTvaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 12:34:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"syYZqWb88oVuG2LDSh4RatbpStyIo66z+PtoSHDb6P4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zcqdgksz4t"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-syYZqWb88oVuG2LDSh4RatbpStyIo66z+PtoSHDb6P4="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.zcqdgksz4t.css",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"syYZqWb88oVuG2LDSh4RatbpStyIo66z+PtoSHDb6P4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 12:34:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zcqdgksz4t"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-syYZqWb88oVuG2LDSh4RatbpStyIo66z+PtoSHDb6P4="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.zcqdgksz4t.css.gz",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\tsb1ls5god-zcqdgksz4t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LO1aaPROB5I/He2CltEhTe9Jcef/TwT+ASd6ZzyTvaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 12:34:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zcqdgksz4t"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LO1aaPROB5I/He2CltEhTe9Jcef/TwT+ASd6ZzyTvaQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.ci02j2ak8c.js",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\104lxk51ya-ci02j2ak8c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002793296089"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rVvjkRInUhFpBF/f4S5BcoUa8GoYDIMl/4C4GaYZgkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 20:29:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7LVWPIIRDILEDd0zF431LXeHpMq3xVMQJcQE8txXI9s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ci02j2ak8c"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7LVWPIIRDILEDd0zF431LXeHpMq3xVMQJcQE8txXI9s="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.ci02j2ak8c.js",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\wwwroot\\js\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7LVWPIIRDILEDd0zF431LXeHpMq3xVMQJcQE8txXI9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 20:29:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ci02j2ak8c"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7LVWPIIRDILEDd0zF431LXeHpMq3xVMQJcQE8txXI9s="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.ci02j2ak8c.js.gz",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\104lxk51ya-ci02j2ak8c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rVvjkRInUhFpBF/f4S5BcoUa8GoYDIMl/4C4GaYZgkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 20:29:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ci02j2ak8c"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rVvjkRInUhFpBF/f4S5BcoUa8GoYDIMl/4C4GaYZgkw="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\104lxk51ya-ci02j2ak8c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002793296089"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rVvjkRInUhFpBF/f4S5BcoUa8GoYDIMl/4C4GaYZgkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 20:29:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7LVWPIIRDILEDd0zF431LXeHpMq3xVMQJcQE8txXI9s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7LVWPIIRDILEDd0zF431LXeHpMq3xVMQJcQE8txXI9s="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\wwwroot\\js\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7LVWPIIRDILEDd0zF431LXeHpMq3xVMQJcQE8txXI9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 20:29:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7LVWPIIRDILEDd0zF431LXeHpMq3xVMQJcQE8txXI9s="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js.gz",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\104lxk51ya-ci02j2ak8c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rVvjkRInUhFpBF/f4S5BcoUa8GoYDIMl/4C4GaYZgkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 20:29:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rVvjkRInUhFpBF/f4S5BcoUa8GoYDIMl/4C4GaYZgkw="
+        }
+      ]
+    },
+    {
+      "Route": "MvcMovie.bundle.scp.css",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\lqewxh1gkt-fwjn205m9p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001851851852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BuGUXkdPxdpXFACcUmGxexAv6CWGmtbXvof+gn99aAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 16:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus="
+        }
+      ]
+    },
+    {
+      "Route": "MvcMovie.bundle.scp.css",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MvcMovie.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 16:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus="
+        }
+      ]
+    },
+    {
+      "Route": "MvcMovie.bundle.scp.css.gz",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\lqewxh1gkt-fwjn205m9p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BuGUXkdPxdpXFACcUmGxexAv6CWGmtbXvof+gn99aAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 16:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BuGUXkdPxdpXFACcUmGxexAv6CWGmtbXvof+gn99aAU="
+        }
+      ]
+    },
+    {
+      "Route": "MvcMovie.fwjn205m9p.bundle.scp.css",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\lqewxh1gkt-fwjn205m9p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001851851852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BuGUXkdPxdpXFACcUmGxexAv6CWGmtbXvof+gn99aAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 16:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwjn205m9p"
+        },
+        {
+          "Name": "label",
+          "Value": "MvcMovie.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus="
+        }
+      ]
+    },
+    {
+      "Route": "MvcMovie.fwjn205m9p.bundle.scp.css",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MvcMovie.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 16:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwjn205m9p"
+        },
+        {
+          "Name": "label",
+          "Value": "MvcMovie.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus="
+        }
+      ]
+    },
+    {
+      "Route": "MvcMovie.fwjn205m9p.bundle.scp.css.gz",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\lqewxh1gkt-fwjn205m9p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BuGUXkdPxdpXFACcUmGxexAv6CWGmtbXvof+gn99aAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 16:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwjn205m9p"
+        },
+        {
+          "Name": "label",
+          "Value": "MvcMovie.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BuGUXkdPxdpXFACcUmGxexAv6CWGmtbXvof+gn99aAU="
+        }
+      ]
+    },
+    {
+      "Route": "MvcMovie.fwjn205m9p.styles.css",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\3w0sbgp9k0-fwjn205m9p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001851851852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BuGUXkdPxdpXFACcUmGxexAv6CWGmtbXvof+gn99aAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 17:29:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwjn205m9p"
+        },
+        {
+          "Name": "label",
+          "Value": "MvcMovie.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus="
+        }
+      ]
+    },
+    {
+      "Route": "MvcMovie.fwjn205m9p.styles.css",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MvcMovie.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 17:29:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwjn205m9p"
+        },
+        {
+          "Name": "label",
+          "Value": "MvcMovie.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus="
+        }
+      ]
+    },
+    {
+      "Route": "MvcMovie.fwjn205m9p.styles.css.gz",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\3w0sbgp9k0-fwjn205m9p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BuGUXkdPxdpXFACcUmGxexAv6CWGmtbXvof+gn99aAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 17:29:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwjn205m9p"
+        },
+        {
+          "Name": "label",
+          "Value": "MvcMovie.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BuGUXkdPxdpXFACcUmGxexAv6CWGmtbXvof+gn99aAU="
+        }
+      ]
+    },
+    {
+      "Route": "MvcMovie.styles.css",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\3w0sbgp9k0-fwjn205m9p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001851851852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BuGUXkdPxdpXFACcUmGxexAv6CWGmtbXvof+gn99aAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 17:29:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus="
+        }
+      ]
+    },
+    {
+      "Route": "MvcMovie.styles.css",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MvcMovie.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 17:29:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f9blgZmuIkMEEroVKDuyzCDOVG0MHi3nsRjJ9O7Zaus="
+        }
+      ]
+    },
+    {
+      "Route": "MvcMovie.styles.css.gz",
+      "AssetFile": "s:\\sushiiiapp\\MvcMovie\\obj\\Debug\\net9.0\\compressed\\3w0sbgp9k0-fwjn205m9p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BuGUXkdPxdpXFACcUmGxexAv6CWGmtbXvof+gn99aAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 17:29:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BuGUXkdPxdpXFACcUmGxexAv6CWGmtbXvof+gn99aAU="
+        }
+      ]
+    }
+  ]
+}
